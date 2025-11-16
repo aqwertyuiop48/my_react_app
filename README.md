@@ -10,10 +10,6 @@ Commands to run:
 - npm install
 - npm start
 
-Git:
-
-- git add . && git commit -m "c" && git push origin main
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -88,10 +84,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Demo:
 
 Part 1:
-https://user-images.githubusercontent.com/55496113/222191518-85d7202b-fa88-4f94-97eb-944506b5c0ec.mp4
+https://user-images.githubusercontent.com/55496113/222205203-34eaac6d-22de-409e-9ff0-d6bb34b65cc3.mp4
 
 Part 2:
-https://user-images.githubusercontent.com/55496113/222191537-960f7c15-12db-481c-a032-d2fcd1c82fe8.mp4
+https://user-images.githubusercontent.com/55496113/222205225-81996aef-5829-4168-a25a-5331000aa77e.mp4
 
 Part 3:
-https://user-images.githubusercontent.com/55496113/222191556-b84973c3-e8d2-447b-a480-2e3746994a9b.mp4
+https://user-images.githubusercontent.com/55496113/222205239-66bad1ff-770c-4985-be63-0355d57e9af9.mp4
+
+Git:
+
+- git add . && git commit -m "c" && git push origin main
