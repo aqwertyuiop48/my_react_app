@@ -95,3 +95,22 @@ https://user-images.githubusercontent.com/55496113/222205239-66bad1ff-770c-4985-
 Git:
 
 - git add . && git commit -m "c" && git push origin main
+
+
+
+<pre>
+Solution 1: Disable "Treat Warnings as Errors" (The Quick Fix)
+If you just want the site live right now, you can tell Vercel to ignore these warnings.
+
+Go to your Vercel Dashboard.
+
+Select your project -> Settings -> Environment Variables.
+
+Add a new variable:
+
+Key: CI
+
+Value: false
+
+Redeploy your project.
+</pre>
